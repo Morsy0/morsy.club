@@ -1,2 +1,4 @@
 # morsy.club
-hashes
+morsy.club an private cs:go hvh cheat.
+
+dont released yet.
