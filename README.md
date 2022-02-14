@@ -1,0 +1,2 @@
+# morsy.club
+hashes
